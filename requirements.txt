@@ -1,0 +1,4 @@
+pygame
+
+# Additional dependencies if needed
+# e.g. numpy
